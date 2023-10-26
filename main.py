@@ -1,1 +1,1 @@
-print('Saya lagi belajar')
+print('Saya lagi belajar lagi')
